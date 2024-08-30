@@ -1,1 +1,0 @@
-import{r as t,u as a,o as s,c as o,O as r}from"./BPmhgPy-.js";import{h as n}from"./CbvuR6Wr.js";const l={class:"dark:bg-neutral-950 bg-neutral-50"},_=t({__name:"default",setup(c){return a({title:n.websiteTitle}),(e,u)=>(s(),o("div",l,[r(e.$slots,"default")]))}});export{_ as default};
